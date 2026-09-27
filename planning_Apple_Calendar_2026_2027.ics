@@ -1,0 +1,2185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Planning Aurlom 2026-2027//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Planning Aurlom BTS 2A 2026-2027
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:admin-20260831@planning-aurlom
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Rentrée administrative — visio
+DESCRIPTION:Planning Aurlom BTS 2e année : rentrée administrative en visioconférence.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-01@planning-aurlom
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-02@planning-aurlom
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-03@planning-aurlom
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-04@planning-aurlom
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-07@planning-aurlom
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-08@planning-aurlom
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-09@planning-aurlom
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-10@planning-aurlom
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-11@planning-aurlom
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-14@planning-aurlom
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-15@planning-aurlom
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-16@planning-aurlom
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-17@planning-aurlom
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-18@planning-aurlom
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-21@planning-aurlom
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-22@planning-aurlom
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-23@planning-aurlom
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-24@planning-aurlom
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:entreprise-full-2026-09-25@planning-aurlom
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Temps plein en entreprise jusqu'au 25 septembre inclus.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-start-20260928@planning-aurlom
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Rentrée scolaire — début des cours
+DESCRIPTION:Début des cours selon le planning Aurlom.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-09-28@planning-aurlom
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-09-29@planning-aurlom
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-09-30@planning-aurlom
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-10-01@planning-aurlom
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-10-02@planning-aurlom
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-10-05@planning-aurlom
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-10-06@planning-aurlom
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-10-07@planning-aurlom
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-10-08@planning-aurlom
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-10-09@planning-aurlom
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-10-12@planning-aurlom
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-10-13@planning-aurlom
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-10-14@planning-aurlom
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-10-15@planning-aurlom
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-10-16@planning-aurlom
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-10-19@planning-aurlom
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-10-20@planning-aurlom
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-10-21@planning-aurlom
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-10-22@planning-aurlom
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-10-23@planning-aurlom
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-10-26@planning-aurlom
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:eval-1@planning-aurlom
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261028
+SUMMARY:Évaluations
+DESCRIPTION:Dates indiquées en violet (« ÉVALUATIONS ») sur le planning Aurlom.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-10-27@planning-aurlom
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-10-28@planning-aurlom
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-10-29@planning-aurlom
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-10-30@planning-aurlom
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-11-02@planning-aurlom
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-11-03@planning-aurlom
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-11-04@planning-aurlom
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-11-05@planning-aurlom
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-11-06@planning-aurlom
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-11-09@planning-aurlom
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-11-10@planning-aurlom
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-11-11@planning-aurlom
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-2026-11-11@planning-aurlom
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Jour férié
+DESCRIPTION:Jour férié indiqué/à considérer dans la période du planning.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-11-12@planning-aurlom
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-11-13@planning-aurlom
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-11-16@planning-aurlom
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-11-17@planning-aurlom
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-11-18@planning-aurlom
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-11-19@planning-aurlom
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-11-20@planning-aurlom
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-11-23@planning-aurlom
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-11-24@planning-aurlom
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-11-25@planning-aurlom
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-11-26@planning-aurlom
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-11-27@planning-aurlom
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-11-30@planning-aurlom
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-12-01@planning-aurlom
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-12-02@planning-aurlom
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-12-03@planning-aurlom
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-12-04@planning-aurlom
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-12-07@planning-aurlom
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-12-08@planning-aurlom
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-12-09@planning-aurlom
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-12-10@planning-aurlom
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-12-11@planning-aurlom
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-12-14@planning-aurlom
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-12-15@planning-aurlom
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-12-16@planning-aurlom
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-12-17@planning-aurlom
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-12-18@planning-aurlom
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-12-21@planning-aurlom
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-12-22@planning-aurlom
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-12-23@planning-aurlom
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-12-24@planning-aurlom
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-12-25@planning-aurlom
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-2026-12-25@planning-aurlom
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Jour férié
+DESCRIPTION:Jour férié indiqué/à considérer dans la période du planning.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-12-28@planning-aurlom
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2026-12-29@planning-aurlom
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-12-30@planning-aurlom
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2026-12-31@planning-aurlom
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-01-01@planning-aurlom
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-2027-01-01@planning-aurlom
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Jour férié
+DESCRIPTION:Jour férié indiqué/à considérer dans la période du planning.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-01-04@planning-aurlom
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-01-05@planning-aurlom
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-01-06@planning-aurlom
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-01-07@planning-aurlom
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-01-08@planning-aurlom
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-01-11@planning-aurlom
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-01-12@planning-aurlom
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-01-13@planning-aurlom
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-01-14@planning-aurlom
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-01-15@planning-aurlom
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-01-18@planning-aurlom
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:eval-2@planning-aurlom
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270120
+SUMMARY:Évaluations
+DESCRIPTION:Dates indiquées en violet (« ÉVALUATIONS ») sur le planning Aurlom.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-01-19@planning-aurlom
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-01-20@planning-aurlom
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-01-21@planning-aurlom
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-01-22@planning-aurlom
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-01-25@planning-aurlom
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-01-26@planning-aurlom
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-01-27@planning-aurlom
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-01-28@planning-aurlom
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-01-29@planning-aurlom
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-02-01@planning-aurlom
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-02-02@planning-aurlom
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-02-03@planning-aurlom
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-02-04@planning-aurlom
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-02-05@planning-aurlom
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-02-08@planning-aurlom
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-02-09@planning-aurlom
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-02-10@planning-aurlom
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-02-11@planning-aurlom
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-02-12@planning-aurlom
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-02-15@planning-aurlom
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-02-16@planning-aurlom
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-02-17@planning-aurlom
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-02-18@planning-aurlom
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-02-19@planning-aurlom
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-02-22@planning-aurlom
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-02-23@planning-aurlom
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-02-24@planning-aurlom
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-02-25@planning-aurlom
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-02-26@planning-aurlom
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-03-01@planning-aurlom
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-03-02@planning-aurlom
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-03-03@planning-aurlom
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-03-04@planning-aurlom
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-03-05@planning-aurlom
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:vac-1@planning-aurlom
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270310
+SUMMARY:Vacances scolaires
+DESCRIPTION:Période indiquée comme « vacances scolaires » sur le planning Aurlom.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-03-10@planning-aurlom
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-03-11@planning-aurlom
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-03-12@planning-aurlom
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-03-15@planning-aurlom
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-03-16@planning-aurlom
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-03-17@planning-aurlom
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-03-18@planning-aurlom
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-03-19@planning-aurlom
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-03-22@planning-aurlom
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-03-23@planning-aurlom
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-03-24@planning-aurlom
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-03-25@planning-aurlom
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-03-26@planning-aurlom
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-03-29@planning-aurlom
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-03-30@planning-aurlom
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-03-31@planning-aurlom
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-04-01@planning-aurlom
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-04-02@planning-aurlom
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-2027-04-05@planning-aurlom
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Jour férié
+DESCRIPTION:Jour férié indiqué/à considérer dans la période du planning.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-04-05@planning-aurlom
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-04-06@planning-aurlom
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-04-07@planning-aurlom
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-04-08@planning-aurlom
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-04-09@planning-aurlom
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-04-12@planning-aurlom
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-04-13@planning-aurlom
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-04-14@planning-aurlom
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-04-15@planning-aurlom
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-04-16@planning-aurlom
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:vac-2@planning-aurlom
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270424
+SUMMARY:Vacances scolaires
+DESCRIPTION:Période indiquée comme « vacances scolaires » sur le planning Aurlom.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-04-26@planning-aurlom
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-04-27@planning-aurlom
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-04-28@planning-aurlom
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-04-29@planning-aurlom
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-04-30@planning-aurlom
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-2027-05-01@planning-aurlom
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Jour férié
+DESCRIPTION:Jour férié indiqué/à considérer dans la période du planning.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-05-03@planning-aurlom
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-05-04@planning-aurlom
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-05-05@planning-aurlom
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-05-06@planning-aurlom
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-05-07@planning-aurlom
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-2027-05-08@planning-aurlom
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Jour férié
+DESCRIPTION:Jour férié indiqué/à considérer dans la période du planning.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-05-10@planning-aurlom
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:school-2027-05-11@planning-aurlom
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:École — Aurlom
+DESCRIPTION:Présence à l'école Aurlom (lundi et mardi)\, selon l'EDT.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-05-12@planning-aurlom
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-05-12@planning-aurlom
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-05-13@planning-aurlom
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-05-13@planning-aurlom
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-2027-05-13@planning-aurlom
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Jour férié
+DESCRIPTION:Jour férié indiqué/à considérer dans la période du planning.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-05-14@planning-aurlom
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-05-14@planning-aurlom
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:vac-3@planning-aurlom
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270522
+SUMMARY:Vacances scolaires
+DESCRIPTION:Période indiquée comme « vacances scolaires » sur le planning Aurlom.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-05-24@planning-aurlom
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-2027-05-24@planning-aurlom
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:Jour férié
+DESCRIPTION:Jour férié indiqué/à considérer dans la période du planning.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-05-25@planning-aurlom
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-05-26@planning-aurlom
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-05-26@planning-aurlom
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-05-27@planning-aurlom
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-05-27@planning-aurlom
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-05-28@planning-aurlom
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-05-28@planning-aurlom
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-05-31@planning-aurlom
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-01@planning-aurlom
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-06-02@planning-aurlom
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-02@planning-aurlom
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-06-03@planning-aurlom
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-03@planning-aurlom
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-06-04@planning-aurlom
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-04@planning-aurlom
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-07@planning-aurlom
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-08@planning-aurlom
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-06-09@planning-aurlom
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-09@planning-aurlom
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-06-10@planning-aurlom
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-10@planning-aurlom
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-06-11@planning-aurlom
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-11@planning-aurlom
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-14@planning-aurlom
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-15@planning-aurlom
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-06-16@planning-aurlom
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-16@planning-aurlom
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-06-17@planning-aurlom
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-17@planning-aurlom
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-06-18@planning-aurlom
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-18@planning-aurlom
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-21@planning-aurlom
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-22@planning-aurlom
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-06-23@planning-aurlom
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-23@planning-aurlom
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-06-24@planning-aurlom
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-24@planning-aurlom
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-06-25@planning-aurlom
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-25@planning-aurlom
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-28@planning-aurlom
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-29@planning-aurlom
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-06-30@planning-aurlom
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-06-30@planning-aurlom
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-07-01@planning-aurlom
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-01@planning-aurlom
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-07-02@planning-aurlom
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-02@planning-aurlom
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-05@planning-aurlom
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-06@planning-aurlom
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-07-07@planning-aurlom
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-07@planning-aurlom
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-07-08@planning-aurlom
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-08@planning-aurlom
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-07-09@planning-aurlom
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-09@planning-aurlom
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-12@planning-aurlom
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-13@planning-aurlom
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-07-14@planning-aurlom
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-14@planning-aurlom
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-2027-07-14@planning-aurlom
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:Jour férié
+DESCRIPTION:Jour férié indiqué/à considérer dans la période du planning.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-07-15@planning-aurlom
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-15@planning-aurlom
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-07-16@planning-aurlom
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-16@planning-aurlom
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-19@planning-aurlom
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-20@planning-aurlom
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-07-21@planning-aurlom
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-21@planning-aurlom
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-07-22@planning-aurlom
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-22@planning-aurlom
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-07-23@planning-aurlom
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-23@planning-aurlom
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-26@planning-aurlom
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-27@planning-aurlom
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-07-28@planning-aurlom
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-28@planning-aurlom
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-07-29@planning-aurlom
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-29@planning-aurlom
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-07-30@planning-aurlom
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-07-30@planning-aurlom
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-02@planning-aurlom
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-03@planning-aurlom
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-08-04@planning-aurlom
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-04@planning-aurlom
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-08-05@planning-aurlom
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-05@planning-aurlom
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-08-06@planning-aurlom
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-06@planning-aurlom
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-09@planning-aurlom
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-10@planning-aurlom
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-08-11@planning-aurlom
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-11@planning-aurlom
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-08-12@planning-aurlom
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-12@planning-aurlom
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-08-13@planning-aurlom
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-13@planning-aurlom
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-2027-08-15@planning-aurlom
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Jour férié
+DESCRIPTION:Jour férié indiqué/à considérer dans la période du planning.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-16@planning-aurlom
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-17@planning-aurlom
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-08-18@planning-aurlom
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-18@planning-aurlom
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-08-19@planning-aurlom
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-19@planning-aurlom
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-08-20@planning-aurlom
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-20@planning-aurlom
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-23@planning-aurlom
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-24@planning-aurlom
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-08-25@planning-aurlom
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-25@planning-aurlom
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-08-26@planning-aurlom
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-26@planning-aurlom
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-2027-08-27@planning-aurlom
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Entreprise
+DESCRIPTION:Présence en entreprise (mercredi\, jeudi et vendredi).
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-27@planning-aurlom
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-30@planning-aurlom
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+BEGIN:VEVENT
+UID:company-ft-2027-08-31@planning-aurlom
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Entreprise — temps plein
+DESCRIPTION:Période entreprise à temps plein indiquée par le calendrier.
+END:VEVENT
+END:VCALENDAR
